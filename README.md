@@ -79,7 +79,7 @@ product-catalog-backend/
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/product-catalog.git
+git clone https://github.com/ShubhamMisal07/product-catalog.git
 cd product-catalog
 
 
